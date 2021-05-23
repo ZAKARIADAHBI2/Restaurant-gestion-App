@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">feed me</string>
+    <string-array name="unit">
+        <item>g</item>
+        <item>cup</item>
+        <item>l</item>
+        <item>piece</item>
+
+    </string-array>
+</resources>
